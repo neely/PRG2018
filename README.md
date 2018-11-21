@@ -25,7 +25,10 @@ We are assuming a 30 sec peak width at base and therefore these methods all have
 ![linreg](https://raw.githubusercontent.com/neely/PRG2018/master/misc/LinearRegression.PNG "Linear Regression of cycle time and number of DIA windows")
 
 
-![Thermo Settings Table](https://raw.githubusercontent.com/neely/PRG2018/master/misc/ThermoSettingsTable.PNG "Abbreviated settings for Thermo instruments")
+![Thermo Settings Table](https://raw.githubusercontent.com/neely/PRG2018/master/misc/ThermoSettingsTable.PNG "Abbreviated settings for Thermo instruments")<br />
+*no lock mass used
+\* 60 if Fusion rather than Lumos because then S-lens rather than IF
+\** adjust to prefered energy*<br />
 
 Method Files:<br />
 Lumos/Fusion<br />
